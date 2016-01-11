@@ -1,7 +1,7 @@
 {
   "name": "dlanguage",
   "description": "Middleware for the accept language of the current request",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "http://github.com/dnode/dlanguage",
   "license": "MIT",
   "readmeFilename": "README.md",
