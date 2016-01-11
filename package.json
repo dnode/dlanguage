@@ -1,0 +1,13 @@
+{
+  "name": "dlanguage",
+  "description": "Middleware for the accept language of the current request",
+  "version": "1.0.0",
+  "homepage": "http://github.com/dnode/dlanguage",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "main": "src/middleware.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnode/dlanguage.git"
+  }
+}
